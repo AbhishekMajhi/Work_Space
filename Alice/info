@@ -1,0 +1,14 @@
+This is voice assistant for Linux(Debian) system. 
+The purpose of this project to make life easier with Linux.
+One can do common tasks like installing packages, updating system or upgrading packages, shutdown, restart, activating workspce(like python env), playing music, taking 
+backups, setting reminders, finding files, see weather, getting current location, checking mails, etc just by giving voice commands.
+Technologies used::
+-> Pythoon
+-> OpenCV
+-> Machine Learning
+-> NLP
+-> Deep Learning
+-> TTS(Espeak)
+-> STT(Speech Recognition)
+
+STATUS:::::: Ongoing......
