@@ -116,6 +116,30 @@ def open_mail():
 def open_htop():
     subprocess.Popen('htop',shell = True)
     
+def location():
+    send_url = "http://api.ipstack.com/check?access_key=ccb2135c0cf1e0c2309e154a7935098f"
+    geo_req = requests.get(send_url)
+    geo_json = json.loads(geo_req.text)
+    latitude = geo_json['latitude']
+    longitude = geo_json['longitude']
+    city = geo_json['city']
+    print(city)
+
+def weather():
+    apiKey = "a29d50396e3c4e9150d0e3c85192dd3e"
+    baseUrl = "https://api.openweathermap.org/data/2.5/weather?q="
+    city = input("Enter Your city name : ")
+    completeUrl = baseUrl + city + "&appid=" + apiKey
+
+    responce = requests.get(completeUrl)
+    data = responce.json()
+
+    kelvin_temp = data["main"]["temp"]
+
+    cel = kelvin_temp - 273.15
+    speak("Temperature in" + city + "is" + cel)
+    print("Temperature in" + city + "is" + cel)
+    
 
     
 
