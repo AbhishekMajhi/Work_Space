@@ -1,0 +1,157 @@
+,sentence1,sentence2,labels,similarity
+,sentence1,sentence2,labels,similarity
+0.0, open music,lunch music app,play music,0.7
+1.0,can you play music for me,play song or music. Whatever you say,play music,0.8
+2.0,play videos ,play music,play music,0.01
+3.0,can you play anything? my friends are getting bored here,play some music I feel bored here.,play music,0.7
+4.0,choose a song from library and play it,play any song from my library,play music,0.8
+5.0,"i am bored,can you play a song for me",play some music I feel bored here.,play music,0.9
+6.0,what is the weather today?,tell me about the weather?,weather,0.9
+7.0,how wil be the day ?,what the day will be?,weather,0.8
+8.0,give me a waether report,How the waether gonna be?,weather,0.8
+9.0,Is today gonna be a rainy day?,is it going to rain today?,weather,0.9
+10.0,can I go outside today or is there will be rain? ,Is it safe to move outside or the waeher gonna be heasty today.,weather,0.8
+11.0,hey open a browser for me,Lunch the browser,Browser,0.9
+12.0,I want to google something,I wanna search something on google,Browser,0.8
+13.0,I want to search something on web,I wanna know about something from web,Browser,0.9
+14.0,I want you to open a browser for me,hey open a browser app will you?,Browser,0.9
+15.0,introduce yourself?,"By my command, give your introduction to everyone present here",Introduction,0.7
+16.0,Who are you?,Tell me about yourself?,Introduction,0.8
+17.0,Give me your introduction.,give your description.,Introduction,0.9
+18.0,Hey dude you need to tell who you really are?,what was your name again?,Introduction,0.7
+19.0,Hey dude its time for you to give your proper introduction to my friends.,"My friend over here wanna know about you, so can you tell him about yourself?",Introduction,0.7
+20.0,"Properly introduce yourself to everyone present here.,5,","By my command, give your introduction to everyone present here",Introduction,0.8
+21.0,"you have not told me, who are you yet.",give me your introduction?,Introduction,0.7
+22.0,open settings ,lunch linnux settings app,Settings,0.9
+23.0,hey open windows settings for me,hey open settings for me,Settings,0.9
+24.0,i want to change settings so open it,I have to change some settings on system level,Settings,0.8
+25.0,open computer  settings,open settings app,Settings,0.98
+26.0,i have to change some settings,I have to change some settings on system level,Settings,0.9
+27.0,open skype,hey i want you to lunch skype,Skype,0.88
+28.0,I have a meeting on skype that I have to join,There is a metting that I need to attend to so could you please take me to the skype.,Skype,0.79
+29.0,can you lunch skype for me,hey i want you to lunch skype app,Skype,0.92
+30.0,open google meet,Lunch google meet,Google Meet,0.98
+31.0,meeting time open google meet,video call time open skype,Google Meet,0.001
+32.0,"I need to join my classes on google meet right now,",There are classes that I need to attend to so could you please take me to the skype.,Google Meet,0.75
+33.0,Hey start the google meet application,start the skype app,Google Meet,0.0001
+34.0,Hey start the google meet application,Lunch google meet,Google Meet,0.78
+35.0,open notepad,hey lunch the notepad application,Google Meet,0.85
+36.0,i have to take notes,i want to write something,Text Editor,0.75
+37.0,Lunch a writing a application where I can write something,I want you to opne a simple text editor where I can write something,Text Editor,0.85
+38.0,Can you lunch any text editor application in my system,hey lunch a text editor,Text Editor,0.8
+39.0,Hey open a text editor,hey bring me a text editor,Text Editor,0.95
+40.0,lunch code ,lunch vscode,VsCode,0.8
+41.0,lunch the code application,open a application where I can code,VsCode,0.76
+42.0,I want to do some programming so open any editor for me,I need a editor for programming,VsCode,0.74
+43.0,open a code editor for me,I need a editor for coding,VsCode,0.82
+44.0,lunch an IDE for me,"Open a IDE, will you?",VsCode,0.92
+45.0,delete my account,remove my account please,Delete Account,0.95
+46.0,I want to delete my user account,I  want you to delete my account,Delete Account,0.99
+47.0,I don't plan to use this software anymore so just remove my account,I am quiting from using this application so delete my account ,Delete Account,0.85
+48.0,hey remove my account from your system,Hey if you have my account in your system delete it please.,Delete Account,0.89
+49.0,can you pop my account?,I want you to remve my account,Delete Account,0.8
+50.0,tell me a jock,find a jock for me,Joke,0.95
+51.0,I wanna listen to a Joke,hey buddy tell me a Joke,Joke,0.83
+52.0,I am getting bored here can you tell me a good Joke,Hey buddy tell me a Joke or something I am getting bored here,Joke,0.95
+53.0,self destruct,Perform self destruct,Self Distruct,0.99
+54.0,Hey you have to destroy yourself.,I do not need you any more  so destroy yourself,Self Distruct,0.85
+55.0,dude it's the time has come for you to say goodbye,"Dude I am giving you farewell, the time has arrived.",Self Distruct,0.8
+56.0,Perform a self destruction,execute self destruct sequence,Self Distruct,0.96
+57.0,By my command you destroy yourself,I am telling you to self destruct,Self Distruct,0.95
+58.0,exit,you can exit out,Exit,0.82
+59.0,leave now,you can take your leave dude.,Exit,0.79
+60.0,now you can exit,exit,Exit,0.79
+61.0,I don't need you for the time being so exit now,Leave the system for the time being,Exit,0.89
+62.0,Execute Shut down,perform system shut down,Shutdown,0.96
+63.0,dude power off the system,can you turn off the system,Shutdown,0.98
+64.0,Turn off the system now,shut down the system now,Shutdown,0.99
+65.0,put the system into hibernation mode,take the system into hibernation state,Hibernation,0.95
+66.0,freez the system,freez the system and put it into power saving mode,Hibernation,0.78
+67.0,Leave the system as it is,turn off the system by leaving the processes as it is,Hibernation,0.7
+68.0,turn off the system by leaving the processes as it is,turn off the system,Hibernation,0.5
+69.0,put the system into sleep,take the system into sleep mode,Sleep,0.95
+70.0,activate sleep mode,execute sleep mode,Sleep,0.96
+71.0,can you put my system into sleep because I don't wanna use it right now,hey activate the sleep mode because I am not in the mode of using my system right now,Sleep,0.8
+72.0,sleep ,send the system into sleep,Sleep,0.7
+73.0,lunch gnome disk application,Open gnome disk app will you?,Gnome Disk,0.95
+74.0,Lunch disk app,Open disk application ,Gnome Disk,0.98
+75.0,I wan to check my disk status,I have to look at my disk status,Gnome Disk,0.89
+76.0,"Hey lunch disk app, I want to mount some partitons",Some partition need to be mounted so lunch disk app for me.,Gnome Disk,0.75
+77.0,What is the time dude?,what time is it?,Time,0.99
+78.0,Dude can you tell me the time.,Dude will you inform me what time is it?,Time,0.95
+79.0,I wanna know the time,time,Time,0.79
+80.0,What time is it right now,What's the time?,Time,0.99
+81.0,Where am I?,What is my location?,Location,0.95
+82.0,I wanna know where I am right now?,Tell me my location,Location,0.75
+83.0,spot me,spot my location dude,Location,0.8
+84.0,Lunch the konsole which is otherwise known as terminal,Lunch terminal,Terminal,0.7
+85.0,bring out the terminal for me,open up the terminal for me,Terminal,0.89
+86.0,Lunch the command prompt,bring out the command prompt,Terminal,0.99
+87.0,lunch the cmd for me,bring out the cmd,Terminal,0.95
+88.0,Would you mind opening a terminal window for me.,hey can you lunch a terminal window for me?,Terminal,0.95
+89.0,Lunch the linux power house,bring me the linux power house will you?,Terminal,0.78
+90.0,activate my pyhton workspace,bring up my python workspace,Python WorkSpace,0.95
+91.0,Lunch my workspace ,start the workspace,Python WorkSpace,0.92
+92.0,activate the environment,start my virtual environment will you?,Python WorkSpace,0.7
+93.0,Its time for data science,Its time to practice data science. lunch the workspace,Python WorkSpace,0.75
+94.0,Let's practice data science,Let's work on data science,Python WorkSpace,0.78
+95.0,check for any new mails will you?,check my mails,Emails,0.8
+96.0,take me to the gmail,lunch the gmail,Emails,0.98
+97.0,mail,gmail,Emails,0.6
+98.0,open my mails,lunch gmail ,Emails,0.69
+99.0,I want you to check my mail box,hey look for any new mails in my mail box,Emails,0.85
+100.0,Github,open github,GitHub,0.95
+101.0,take me to my github profile page,"show me, my github profile",GitHub,0.8
+102.0,It's been a long time since I last visited my github profile,I havn't been visited my github page for so long,GitHub,0.8
+103.0,Hey buddy bring out my github,"show me, my github profile",GitHub,0.7
+104.0,hey I wanna watch youtube,Hey I am in mode of watching youtube buddy,Youtube,0.76
+105.0,Take me to the youtube,I wanna visit youtube,Youtube,0.85
+106.0,It's time for youtube,youtube,Youtube,0.69
+107.0,I wanna watch videos on youtube buddy,watching videos on youtube is fun you know buddy.,Youtube,0.65
+108.0,lunch youtube for me,open youtube,Youtube,0.8
+109.0,Take me to the american video website,I wanna visit american video website,Youtube,0.9
+110.0,Lunch the lunrning platform,Open the learning platform,Youtube,0.98
+111.0,Lunch the discord platform,Lunch the discord server,Discord,0.99
+112.0,Buddy take me to the discord,Buddy I wanna visit my discord profile,Discord,0.92
+113.0,lunch discord right now,start discord at instant,Discord,0.93
+114.0,Lunch slack,Open slack,Slack,0.99
+115.0,I wanna visit slack communuty,take me to the slack community,Slack,0.95
+116.0,It's time for slack,time to visit slack,Slack,0.95
+117.0,Lunch gparted,open gparted,Gparted,0.99
+118.0,I have to do some advance system partition,Advance system partition,Gparted,0.86
+119.0,lunch advance disk partition tool,Bring out the advance disk partition tool fop me,Gparted,0.95
+120.0,Install package,hey will you install a package for me,Install Package,0.75
+121.0,hey buddy try to install a package for me,will you install a software for me,Install Package,0.68
+122.0,It's time to install a software,install a software for me will you,Install Package,0.7
+123.0,Install,install app,Install Package,0.7
+124.0,take a system backup,backup the system,Backup,0.95
+125.0,I havn't taken a system backup yet,It's been a while since I took a system backup,Backup,0.84
+126.0,buddy take a system snapshot,I want you to take a system snapshot,Backup,0.95
+127.0,It's time to backup my system,time for system backup,Backup,0.98
+128.0,Hey lunch the file manager,Bring out the file manager dude,File manager(Default),0.98
+129.0,I want you lunch file manager ,lunch file manager,File manager(Default),0.97
+130.0,open file manager,lunch file manager,File manager(Default),0.99
+131.0,I have some work with file manager,open file manager because I have some work to do,File manager(Default),0.8
+132.0,I wanna browse files,I wanna look into my medias or files,File manager(Default),0.78
+133.0,Lunch nautilus,Lunch Dolphin,File manager,0.001
+134.0,I want Nautilus,I want Dolphin,File manager,0.001
+135.0,Hey lunch Nautilus for me,Bring out Nautilus,File manager,0.9
+136.0,Hey lunch Dolphin for me,Bring out my Dolphin,File manager,0.8
+137.0,show system loads,Can you show me loads on my system,System Monitor,0.8
+138.0,Show me all the resources used by my system right now,Show me system resources uses,System Monitor,0.9
+139.0,Check for resources uses in my computer,Show me all the resources used by my system right now,System Monitor,0.7
+140.0,show me resource uses,Show me system resources uses,System Monitor,0.8
+141.0,Show me all the resources used by my system right now,Show me system settings,System Monitor,0.002
+142.0,Lunch system monitor,Start the system monitor application,System Monitor,0.9
+143.0,I wanna monitor my system resource uses,Show me system resources uses,System Monitor,0.8
+144.0,show me all running processes in my system,Present all running processes in my system,System Monitor,0.8
+145.0,Show me all the running apps in my system,show me all running processes in my system,System Monitor,0.7
+146.0,Reboot,Perform a reboot,Reboot,0.7
+147.0,Execute system reboot,Perform a system reboot,Reboot,0.9
+148.0,Do a system reboot,Perform a system reboot,Reboot,0.9
+149.0,I command you to reboot the system now!,I am asking you to reboot the system now,Reboot,0.8
+150.0,System needs a reboot to work properly,Reboot is a needed for system to be able to work properly again,Reboot,0.8
+151.0,Execute system reboot,Execute system restart,Reboot,0.8
+152.0,Execute system restart,Perform a system restart,Reboot,0.8
+153.0,restart the system please!,I want you to restart the system,Reboot,0.7
+154.0,System needs a restart,A restart is a needed for system to be able to work properly again,Reboot,0.7
