@@ -1,0 +1,105 @@
+open music,music,1,D
+paly music for me,music,,
+can you play anything? my friends are getting bored here,music,,
+choose a song from library and play it,music,,
+"i am bored,can you play a song for me",music,,
+what is the weather today?,weather,2,D
+give me a waether report,weather,,
+can I go outside today or is there will be rain? ,weather,,
+inform me about the weather,weather,,
+hey open a browser for me,browser,3,D
+I want to google something,browser,,
+I want to search something on web,browser,,
+who are you?,intro,4,D
+Give me your introduction.,intro,,
+"My friend over here wanna know about you, so can you tell him about yourself?",intro,,
+hey introduce yourself,intro,,
+launch settings,settings,5,D
+launch system settings manager,settings,,
+I have to change some settings on system level,settings,,
+launch skype,skype,6,D
+I have a meeting on skype that I have to join,skype,,
+launch Google Meet application,meet,7,D
+I have a meeting on Google Meet that I have to join,meet,,
+launch meet,meet,,
+"I need to join my classes on google meet right now,",meet,,
+launch a text editor,text editor,8,D
+launch a writing a application where I can write something,text editor,,
+Can you launch any text editor application in my system,text editor,,
+I want to take notes,text editor,,
+launch the code application,code,9,D
+launch VsCode,code,,
+I want to do some programming so open any editor for me,code,,
+launch an IDE for me,code,,
+open a code editor for me,code,,
+delete my account,delete account,10,P
+I don't plan to use this software anymore so just remove my account,delete account,,
+I want you to remve my account,delete account,,
+I am getting bored here can you tell me a good Joke,joke,11,N
+I wanna listen to a Joke,joke,,
+find a jock for me,joke,,P
+Perform self destruct,Self Distruct,,
+I do not need you any more  so destroy yourself,Self Distruct,,
+You can wipe your existence,Self Distruct,,
+exit,exit,,P
+you can leave now,exit,,
+I don't need you for the time being so exit now,exit,,
+Leave the system for the time being,exit,,
+perform system shut down,shutdown,,D
+dude power off the system,shutdown,,
+put the system into hibernation mode,hibernate,,D
+freez the system and put it into power saving mode,hibernate,,
+turn off the system by leaving the processes as it is. I mean hibernate it.,hibernate,,
+put the system into sleep,sleep,,D
+activate sleep mode,sleep,,
+open gnome partition manager.,Gnoome Disk,,
+launch gnome disk application,Gnoome Disk,,D
+Some partition need to be mounted so launch disk app for me.,Gnoome Disk,,
+What is the time dude?,time,,D
+Dude will you inform me what time is it?,time,,
+What is my location?,location,,unlikely
+I wanna know where I am right now?,location,,
+launch the terminal or Konsole or Command Prompt,terminal,,D
+bring me the linux power house will you?,terminal,,
+bring up my python workspace,python workspace,,D
+Its time to practice data science. launch the workspace,python workspace,,
+start my virtual environment will you?,python workspace,,
+launch the gmail or check my mails,mail,,D
+hey look for any new mails in my mail box,mail,,
+take me to my Github profile page,github,,
+launch Github,github,,
+Take me to the youtube,youtube,,
+I wanna watch videos on youtube buddy,youtube,,
+Take me to the american video website,youtube,,
+launch the Discord platform,Discord,,
+Buddy take me to my Discord,Discord,,
+I wanna visit slack communuty,Slack,,
+launch Slack,Slack,,
+time to visit slack,Slack,,
+Advance system partition application,gparted,,
+launch Gparted,gparted,,
+launch advance disk partition tool,gparted,,
+Install package,install,,
+Hey Install a software or app for me,install,,
+take a system backup or sanpshot,backup,,
+launch TimeShift,timeshift backup,,
+buddy take a system snapshot,backup,,
+Hey launch the file manager,file manager,,
+I wanna copy some files,file manager,,
+I have some file operations to do,file manager,,
+launch Dolphin,dolphin,,
+launch Nautilus,Nautilus,,
+I wanna browse my files,file manager,,
+show me the system loads,system monitor,,
+launch System Monitor,system monitor,,
+launch Htop,htop,,
+launch BpyTop,bpytop,,
+Show me all the resources used by my system right now,system monitor,,
+launch system monitor,system monitor,,
+show me all running processes in my system,system monitor,,
+Execute system reboot,reboot,,
+System needs a reboot to work properly,reboot,,
+I want you to restart the system,reboot,,
+can you tell what date is today?,date,,
+tell me the date,date,,
+what day is it?,date,,
