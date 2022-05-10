@@ -1,8 +1,8 @@
 from playsound import playsound
 
 # API and URL
-API_KEY = "G96W29F_93kiyWWS-TG6iYSWW1-epneG9cdg3_xXng4O"
-URL = "https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/598f2afb-efca-401b-a704-b880739c2032"
+API_KEY = "Put your API KEY"
+URL = "put your url"
 
 ## Authenticate
 from ibm_watson import TextToSpeechV1
